@@ -8,7 +8,7 @@ bot.on('ready', () => {
     bot.user.setPresence({
         activity: {
             name: 't!help',
-            type: 'STRIMING',
+            type: 'STREAMING',
             url:  'https://www.twitch.tv/lemaxxxxxxx',
         }
     })
